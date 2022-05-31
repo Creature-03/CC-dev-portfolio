@@ -1,7 +1,7 @@
 {
   "name": "creature-codes",
   "version": "0.1.0",
-  "homepage": "https://creature-03.github.io/CC-dev-portfolio/",
+  "homepage": "https://creaturecodes.com",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
