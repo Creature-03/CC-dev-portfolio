@@ -23,11 +23,6 @@ const about = () => {
               <small>2+ years</small>
             </article>
             <article className='aboutCard'>
-              <FaUsers className='aboutCardIcon'/>
-              <h5>Clients</h5>
-              <small>0+</small>
-            </article>
-            <article className='aboutCard'>
               <FaFolderOpen className='aboutCardIcon'/>
               <h5>Projects</h5>
               <small>10+ completed</small>
@@ -35,7 +30,7 @@ const about = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque reprehenderit in eveniet molestias, praesentium, delectus ducimus possimus pariatur, incidunt asperiores quod explicabo nihil. Quos quasi laborum dolores ab dolorem tenetur.
+            Hey, I'm Andrew. I'm a numbers guy, spreadsheets and code are my bread and butter. I started learning to code with C++ in 2020 and have since in addition to C++ learned C#, Python, JavaScript, and Unreal Blueprint.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Contact</a>
