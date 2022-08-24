@@ -1,7 +1,7 @@
 import React from 'react'
 import './header.css'
 import CallToAction from './CallToAction'
-import tempPFP from '../../assets/tempPFP.png'
+import ProfilePicture from '../../assets/IMG_2387.PNG'
 import HeaderSocials from './HeaderSocials'
 
 const header = () => {
@@ -16,7 +16,7 @@ const header = () => {
         <HeaderSocials />
 
         <div className="me">
-          <img src={tempPFP} alt="profile picture" />
+          <img src={ProfilePicture} alt="profile picture" />
         </div>
 
 
