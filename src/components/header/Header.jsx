@@ -1,7 +1,7 @@
 import React from 'react'
 import './header.css'
 import CallToAction from './CallToAction'
-import ProfilePicture from '../../assets/IMG_2387.PNG'
+import ProfilePicture from '../../assets/tempPFP.png'
 import HeaderSocials from './HeaderSocials'
 
 const header = () => {
